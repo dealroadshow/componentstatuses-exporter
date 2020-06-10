@@ -2,4 +2,4 @@ apiVersion: v1
 appVersion: "0.1.5"
 description: A Helm chart for componentstatuses-exporter
 name: componentstatuses-exporter
-version: 0.1.5
+version: 0.2.0

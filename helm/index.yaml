@@ -3,6 +3,15 @@ entries:
   componentstatuses-exporter:
   - apiVersion: v1
     appVersion: 0.1.5
+    created: 2020-06-10T12:35:46.680169+03:00
+    description: A Helm chart for componentstatuses-exporter
+    digest: 6bd6180e5517669a01d3bd97e3b5ad6c0021f712bdf629714d2e751b047ef104
+    name: componentstatuses-exporter
+    urls:
+    - componentstatuses-exporter-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 0.1.5
     created: 2019-11-11T21:13:36.576303+02:00
     description: A Helm chart for componentstatuses-exporter
     digest: 8182200acdf7acb22f57270947768320739536b7a997f7aaaf569b87e211b10e
@@ -28,4 +37,4 @@ entries:
     urls:
     - componentstatuses-exporter-0.1.1.tgz
     version: 0.1.1
-generated: 2019-11-11T21:13:36.572904+02:00
+generated: 2020-06-10T12:35:46.680169+03:00
